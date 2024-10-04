@@ -1,3 +1,5 @@
 {
-    "commentTranslate.source": "Google"
+    "commentTranslate.source": "Google",
+    "docwriter.language": "French",
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }
