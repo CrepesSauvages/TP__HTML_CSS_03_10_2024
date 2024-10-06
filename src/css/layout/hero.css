@@ -1,4 +1,3 @@
-/* hero.css */
 .hero-section {
     display: flex;
     justify-content: center;
@@ -18,6 +17,6 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Fond semi-transparent pour améliorer la lisibilité */
+    background: rgba(0, 0, 0, 0.5);
     z-index: -1;
 }

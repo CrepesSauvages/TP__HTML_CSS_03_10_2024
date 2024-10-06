@@ -1,4 +1,3 @@
-/* animations.css */
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -21,7 +20,7 @@
     animation-delay: 0.5s;
 }
 
-/* Animation spécifique pour les boutons avec un léger délai */
+/* Animation pour les boutons avec délai */
 .btn-fade-in {
     opacity: 0;
     animation: fadeIn 1.5s ease forwards;
